@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Justin Shakya</h1>
-<h3 align="center">I’m a Computer Science and Software Engineering student from Nepal. I’m passionate about building my own digital world, one step at a time. Every coding project I create is built from the ground up, starting from planning and design to solving real-world problems with code.</h3>
+<h3 style="text-align: justify;">I’m a Computer Science and Software Engineering student from Nepal. I’m passionate about building my own digital world, one step at a time. Every coding project I create is built from the ground up, starting from planning and design to solving real-world problems with code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakyaju&label=Profile%20views&color=0e75b6&style=flat" alt="shakyaju" /> </p>
 

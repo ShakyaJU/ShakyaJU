@@ -34,7 +34,7 @@
 
 ### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,java,flask,mysql,tensorflow,git,aws,cs,figma,firebase,oracle" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,python,pycharm,java,flask,mysql,tensorflow,git,github,aws,cs,figma,oracle" />
 </p>
 
 ---

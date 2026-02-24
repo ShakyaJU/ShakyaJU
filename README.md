@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
 
 <h1 align="center">I'm Justin Shakya</h1>
-<h3 align="justify">Hi there👋, I’m a Computer Science and Software Engineering student from Nepal. I’m passionate about building my own digital world, one step at a time. Every coding project I create is built from the ground up, starting from planning and design to solving real-world problems with code.</h3>
+<h3 align="justify">Hi there👋, I’m a Computer Science & Software Engineering graduate from Nepal and a Flutter developer. I’m passionate about building scalable and maintainable mobile applications, tackling real-world problems with code, and exploring innovative digital solutions. Check out my projects where I turn ideas into functional apps, from planning design and implementaion.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakyaju&label=Profile%20views&color=0e75b6&style=flat" alt="shakyaju" />

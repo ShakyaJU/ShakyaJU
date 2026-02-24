@@ -37,14 +37,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,python,pycharm,java,flask,mysql,tensorflow,git,github,aws,cs,figma,oracle" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakyaju&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakyaju&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 

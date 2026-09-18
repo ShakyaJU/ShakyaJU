@@ -1,4 +1,6 @@
-![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=Hello%20World!&fontSize=70&fontColor=7EE787&fontAlignY=45&desc=github.com/ShakyaJU&descAlignY=70&descSize=18&descAlign=50&fontFamily=Fira%20Code" alt="Hello World Banner" />
+</p>
 
 <h1 align="center">I'm Justin Shakya</h1>
 <h3 align="justify">Hi there👋, I’m a Computer Science & Software Engineering graduate from Nepal and a Flutter developer. I’m passionate about building scalable and maintainable mobile applications, tackling real-world problems with code, and exploring innovative digital solutions. Check out my projects where I turn ideas into functional apps, from planning design and implementaion.</h3>

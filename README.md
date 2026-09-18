@@ -2,21 +2,18 @@
   <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/hello-world-terminal.gif" alt="Hello World Terminal" width="600"/>
 </p>
 
-<h1 align="center">I'm Justin Shakya</h1>
-<h3 align="justify">Hi there👋, I’m a Computer Science & Software Engineering graduate from Nepal and a Flutter developer. I’m passionate about building scalable and maintainable mobile applications, tackling real-world problems with code, and exploring innovative digital solutions. Check out my projects where I turn ideas into functional apps, from planning design and implementaion.</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakyaju&label=Profile%20views&color=0e75b6&style=flat" alt="shakyaju" />
 </p>
 
----
+<!--<h1 align="center">I'm Justin Shakya</h1>
+<h3 align="justify">Hi there👋, I’m a Computer Science & Software Engineering graduate from Nepal and a Flutter developer. I’m passionate about building scalable and maintainable mobile applications, tackling real-world problems with code, and exploring innovative digital solutions. Check out my projects where I turn ideas into functional apps, from planning design and implementaion.</h3>-->
 
-###   
-🎬 Fun fact: **I also watch a lot of movies!**  
+
+
 <p align="center">
-  <img alt="Movies" width="500" height="253" src="https://pbs.twimg.com/media/C6MuUtSWMAAlfKB.jpg">
+  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/my-intro.svg" alt="Intro" width="700"/>
 </p>
-
 ---
 
 ### 📬 Connect with Me  

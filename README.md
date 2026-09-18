@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/hello-world-terminal.gif" alt="Hello World Terminal" width="600"/>
+  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/hello-world-terminal.gif" alt="Hello World Terminal" width="700"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/my-intro.svg" alt="Intro" width="700"/>
 </p>
----
 
 ### 📬 Connect with Me  
 <p align="center">

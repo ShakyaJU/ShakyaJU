@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=Hello%20World!&fontSize=70&fontColor=7EE787&fontAlignY=45&desc=github.com/ShakyaJU&descAlignY=70&descSize=18&descAlign=50&fontFamily=Fira%20Code" alt="Hello World Banner" />
+  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/hello-world-terminal.gif" alt="Hello World Terminal" width="600"/>
 </p>
 
 <h1 align="center">I'm Justin Shakya</h1>

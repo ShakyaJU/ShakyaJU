@@ -32,7 +32,7 @@
 
 ### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,python,typescript,java,flask,tensorflow,git,github,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,python,typescript,java,flask,tensorflow,git,vercel" />
 </p>
 
 

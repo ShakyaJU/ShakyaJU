@@ -38,16 +38,13 @@
 
 ---
 
-### 🚀 Featured Projects  
 🌟 **[Bull & Bear](https://github.com/ShakyaJU/bull-and-bear)**  
 🔹 A mobile application built with **Flutter** for the Nepal stock market  
-🔹 Designed to provide a convenient mobile interface for stock market-related information  
-🔹 Developed using **Dart and Flutter**
-
+🔹 Designed to provide users with a convenient mobile interface for stock market-related information  
+🔹 Developed using **Dart and Flutter**  
 <p align="center">
   <a href="https://github.com/ShakyaJU/bull-and-bear">
-    <video src="https://github.com/ShakyaJU/ShakyaJU/raw/main/bull%26bear%20demo.mp4" width="300" controls>
-    </video>
+    <img src="[PATH_TO_YOUR_BULL_AND_BEAR_SCREENSHOT](https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif)" alt="Bull & Bear App Preview" width="300">
   </a>
 </p>
 

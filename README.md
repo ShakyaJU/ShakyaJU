@@ -38,19 +38,27 @@
 
 ---
 
+### 🚀 Featured Projects  
+
 🌟 **[Bull & Bear](https://github.com/ShakyaJU/bull-and-bear)**
+
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>📱 Project Description</h3>
+      <h3>📱 Features</h3>
       <ul>
-        <li>A mobile application built with <strong>Flutter</strong> for the Nepal stock market.</li>
-        <li>Designed to provide users with a convenient mobile interface for stock market-related information.</li>
-        <li>Developed using <strong>Dart and Flutter</strong>.</li>
+        <li><strong>Home Dashboard</strong> — NEPSE index, market summary, top gainers and losers.</li>
+        <li><strong>Watchlist</strong> — track favorite stocks and price changes.</li>
+        <li><strong>Market</strong> — search listed companies by name, symbol, or sector.</li>
+        <li><strong>Portfolio</strong> — track holdings, investment value, and profit/loss.</li>
+        <li><strong>Settings & Data</strong> — theme customization, manual refresh, auto-refresh, and app information.</li>
+        <li><strong>Data Fallback</strong> — clearly labels demo data when the live feed is unavailable.</li>
+        <li><strong>Custom Branding</strong> — branded splash screen and app icon.</li>
+        <li><strong>Navigation</strong> — Home, Watchlist, Market, Portfolio, and More.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <h3>🎬 GIF Demo</h3>
+      <h3>🎬 Demo</h3>
       <a href="https://github.com/ShakyaJU/bull-and-bear">
         <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif" alt="Bull & Bear App Preview" width="200">
       </a>
@@ -58,7 +66,8 @@
   </tr>
 </table>
 
-### 🚀 Featured Projects  
+⚠️ **Disclaimer:** Bull & Bear uses an unofficial NEPSE data API for educational purposes and is not affiliated with NEPSE. Prices may be delayed; demo data is clearly labeled. Portfolio data is stored locally and is not connected to any broker or bank.
+
 🌟 **[Food Allergen Detection](https://github.com/ShakyaJU/Food_Allergen_Detection)**  
 🔹 Uses **CNN** to detect allergens in food images  
 🔹 A mobile application built with **Flutter**  

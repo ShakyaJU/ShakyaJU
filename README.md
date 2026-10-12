@@ -52,10 +52,12 @@
         <li><strong>Market</strong> — search listed companies by name, symbol, or sector.</li>
         <li><strong>Portfolio</strong> — track holdings, investment value, and profit/loss.</li>
         <li><strong>Settings & Data</strong> — theme customization, manual refresh, auto-refresh, and app information.</li>
-        <li><strong>Data Fallback</strong> — clearly labels demo data when the live feed is unavailable.</li>
+        <li><strong>Data Fallback</strong> — labels demo data when the live feed is unavailable.</li>
         <li><strong>Custom Branding</strong> — branded splash screen and app icon.</li>
         <li><strong>Navigation</strong> — Home, Watchlist, Market, Portfolio, and More.</li>
       </ul>
+      <h3>⚠️ Disclaimer</h3>
+      <p>Bull & Bear uses an unofficial NEPSE data API for educational purposes and is not affiliated with NEPSE. Prices may be delayed; demo data is clearly labeled. Portfolio data is stored locally and is not connected to any broker or bank.</p>
     </td>
     <td width="40%" align="center" valign="top">
       <h3>🎬 Demo</h3>
@@ -65,8 +67,6 @@
     </td>
   </tr>
 </table>
-
-⚠️ **Disclaimer:** Bull & Bear uses an unofficial NEPSE data API for educational purposes and is not affiliated with NEPSE. Prices may be delayed; demo data is clearly labeled. Portfolio data is stored locally and is not connected to any broker or bank.
 
 🌟 **[Food Allergen Detection](https://github.com/ShakyaJU/Food_Allergen_Detection)**  
 🔹 Uses **CNN** to detect allergens in food images  

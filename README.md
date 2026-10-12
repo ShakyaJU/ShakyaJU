@@ -60,7 +60,7 @@
       <p>Bull & Bear uses an unofficial NEPSE data API for educational purposes and is not affiliated with NEPSE. Prices may be delayed; demo data is clearly labeled. Portfolio data is stored locally and is not connected to any broker or bank.</p>
     </td>
     <td width="40%" align="center" valign="top">
-      <h3>🎬 Demo</h3>
+       <!--                   <h3>🎬 Demo</h3>            -->
       <a href="https://github.com/ShakyaJU/bull-and-bear">
         <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif" alt="Bull & Bear App Preview" width="200">
       </a>

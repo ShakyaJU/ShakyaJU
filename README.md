@@ -38,13 +38,14 @@
 
 ---
 
-🌟 **[Bull & Bear](https://github.com/ShakyaJU/bull-and-bear)**  
-🔹 A mobile application built with **Flutter** for the Nepal stock market  
-🔹 Designed to provide users with a convenient mobile interface for stock market-related information  
-🔹 Developed using **Dart and Flutter**  
+🌟 **[Bull & Bear](https://github.com/ShakyaJU/bull-and-bear)**
+- 🔹 A mobile application built with **Flutter** for the Nepal stock market.
+- 🔹 Designed to provide users with a convenient mobile interface for stock market-related information.
+- 🔹 Developed using **Dart and Flutter**.
+
 <p align="center">
   <a href="https://github.com/ShakyaJU/bull-and-bear">
-    <img src="[PATH_TO_YOUR_BULL_AND_BEAR_SCREENSHOT](https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif)" alt="Bull & Bear App Preview" width="300">
+    <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif" alt="Bull & Bear App Preview" width="300">
   </a>
 </p>
 

@@ -62,7 +62,7 @@
     <td width="40%" align="center" valign="top">
        <!--                   <h3>🎬 Demo</h3>            -->
       <a href="https://github.com/ShakyaJU/bull-and-bear">
-        <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif" alt="Bull & Bear App Preview" width="200">
+        <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif" alt="Bull & Bear App Preview" width="300">
       </a>
     </td>
   </tr>

@@ -39,6 +39,19 @@
 ---
 
 ### 🚀 Featured Projects  
+🌟 **[Bull & Bear](https://github.com/ShakyaJU/bull-and-bear)**  
+🔹 A mobile application built with **Flutter** for the Nepal stock market  
+🔹 Designed to provide a convenient mobile interface for stock market-related information  
+🔹 Developed using **Dart and Flutter**
+
+<p align="center">
+  <a href="https://github.com/ShakyaJU/bull-and-bear">
+    <video src="https://github.com/ShakyaJU/ShakyaJU/raw/main/bull%26bear%20demo.mp4" width="300" controls>
+    </video>
+  </a>
+</p>
+
+### 🚀 Featured Projects  
 🌟 **[Food Allergen Detection](https://github.com/ShakyaJU/Food_Allergen_Detection)**  
 🔹 Uses **CNN** to detect allergens in food images  
 🔹 A mobile application built with **Flutter**  
@@ -47,7 +60,8 @@
   <img src="https://github.com/ShakyaJU/Food_Allergen_Detection/raw/main/assets/screenshots/app_preview.gif" alt="App Preview" width="300">
 </p>
 
+
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.” – IDK_  
+
 

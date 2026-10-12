@@ -56,8 +56,10 @@
         <li><strong>Custom Branding</strong> — branded splash screen and app icon.</li>
         <li><strong>Navigation</strong> — Home, Watchlist, Market, Portfolio, and More.</li>
       </ul>
-      <h3>⚠️ Disclaimer</h3>
-      <p>Bull & Bear uses an unofficial NEPSE data API for educational purposes and is not affiliated with NEPSE. Prices may be delayed; demo data is clearly labeled. Portfolio data is stored locally and is not connected to any broker or bank.</p>
+         <h3>⚠️ Disclaimer</h3>
+    <p style="color: #808080; font-size: 12px;">
+      Bull & Bear uses an unofficial NEPSE data API for educational purposes and is not affiliated with NEPSE. Prices may be delayed; demo data is clearly labeled. Portfolio data is stored locally and is not connected to any broker or bank.
+    </p>
     </td>
     <td width="40%" align="center" valign="top">
        <!--                   <h3>🎬 Demo</h3>            -->

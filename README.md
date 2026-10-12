@@ -77,8 +77,6 @@
 <p align="center">
   <img src="https://github.com/ShakyaJU/Food_Allergen_Detection/raw/main/assets/screenshots/app_preview.gif" alt="App Preview" width="300">
 </p>
-
-
 ---
 
 

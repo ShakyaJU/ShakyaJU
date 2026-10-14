@@ -74,9 +74,6 @@
 🔹 Uses **CNN** to detect allergens in food images  
 🔹 A mobile application built with **Flutter**  
 🔹 Provides **real-time analysis** of allergens present in food items  
-<p align="center">
-  <img src="https://github.com/ShakyaJU/Food_Allergen_Detection/raw/main/assets/screenshots/app_preview.gif" alt="App Preview" width="300">
-</p>
 
 
 

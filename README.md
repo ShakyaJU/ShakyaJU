@@ -37,7 +37,7 @@
 
 
 ---
-
+### 🚀 Featured Projects
 🌟 **[Bull & Bear](https://github.com/ShakyaJU/bull-and-bear)**
 
 <table>

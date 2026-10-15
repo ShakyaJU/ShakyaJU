@@ -38,8 +38,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
 🌟 **[Bull & Bear](https://github.com/ShakyaJU/bull-and-bear)**
 
 <table>
@@ -51,24 +49,26 @@
         <li><strong>Watchlist</strong> — track favorite stocks and price changes.</li>
         <li><strong>Market</strong> — search listed companies by name, symbol, or sector.</li>
         <li><strong>Portfolio</strong> — track holdings, investment value, and profit/loss.</li>
-        <li><strong>Settings &amp; Data</strong> — theme customization, manual refresh, auto-refresh, and app information.</li>
+        <li><strong>Settings & Data</strong> — theme customization, manual refresh, auto-refresh, and app information.</li>
         <li><strong>Data Fallback</strong> — labels demo data when the live feed is unavailable.</li>
         <li><strong>Custom Branding</strong> — branded splash screen and app icon.</li>
         <li><strong>Navigation</strong> — Home, Watchlist, Market, Portfolio, and More.</li>
       </ul>
-
       <h3>⚠️ Disclaimer</h3>
       <p style="color: #808080; font-size: 12px;">
-        Bull &amp; Bear uses an unofficial NEPSE data API for educational purposes and is not affiliated with NEPSE. Prices may be delayed; demo data is clearly labeled. Portfolio data is stored locally and is not connected to any broker or bank.
+        Bull & Bear uses an unofficial NEPSE data API for educational purposes and is not affiliated with NEPSE. Prices may be delayed; demo data is clearly labeled. Portfolio data is stored locally and is not connected to any broker or bank.
       </p>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif?raw=true" alt="Bull &amp; Bear App Preview" width="300">
+      <!-- <h3>🎬 Demo</h3> -->
+      <a href="https://github.com/ShakyaJU/bull-and-bear">
+        <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif" alt="Bull & Bear App Preview" width="300">
+      </a>
     </td>
   </tr>
 </table>
 
-### 🌟 [Food Allergen Detection](https://github.com/ShakyaJU/Food_Allergen_Detection)
+🌟 **[Food Allergen Detection](https://github.com/ShakyaJU/Food_Allergen_Detection)**
 
 <table>
   <tr>
@@ -80,25 +80,24 @@
         <li><strong>Machine Learning</strong> — uses a CNN model to analyze food images and predict potential allergens.</li>
         <li><strong>Flutter Interface</strong> — a mobile-friendly interface for submitting images and viewing predictions.</li>
       </ul>
-
       <h3>🚀 Technologies Used</h3>
       <ul>
         <li><strong>Frontend:</strong> Flutter (Dart)</li>
         <li><strong>Backend:</strong> Flask (Python)</li>
         <li><strong>Machine Learning:</strong> TensorFlow/Keras, CNN, ResNet50V2</li>
       </ul>
-
       <h3>⚠️ Disclaimer</h3>
       <p style="color: #808080; font-size: 12px;">
         Predictions are model-generated and may not identify every allergen. Do not rely on this application alone to determine whether food is safe for someone with an allergy.
       </p>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/f_a_d.gif?raw=true" alt="Food Allergen Detection App Preview" width="300">
+      <a href="https://github.com/ShakyaJU/Food_Allergen_Detection">
+        <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/f_a_d.gif" alt="Food Allergen Detection App Preview" width="300">
+      </a>
     </td>
   </tr>
 </table>
-
 
 
 

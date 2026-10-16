@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shakyaju&label=Profile%20views&color=0e75b6&style=flat" alt="shakyaju" />
+  <img src="https://komarev.com/ghpvc/?username=ShakyaJU&label=Profile%20views&color=0e75b6&style=flat" alt="shakyaju" />
 </p>
 
 <!--<h1 align="center">I'm Justin Shakya</h1>

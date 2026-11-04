@@ -70,7 +70,7 @@ PokéPod treats the Pokédex as a research instrument rather than a list. You br
     </td>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/app widgets.gif" alt="PokéPod home-screen widgets in four sizes" width="220"><br>
-      <sub><b>Android widgets</b><br>Four launcher sizes</sub>
+      <sub><b>Android widgets</b><br>Demo for two widgets</sub>
     </td>
   </tr>
 </table>

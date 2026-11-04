@@ -64,6 +64,10 @@ PokéPod treats the Pokédex as a research instrument rather than a list. You br
       <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/whos that pokemon challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
       <sub><b>Who's That Pokémon?</b><br>Daily challenge with a progressive reveal</sub>
     </td>
+     <td align="center" valign="top" width="33%">
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokedex.gif" alt="Pokédex · searched, filtered and sorted" width="220"><br>
+      <sub><b>Pokédex</b><br>Pokédex · search, filters and sorting</sub>
+    </td>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/evolution constellation.gif" alt="Evolution Constellation graph being explored" width="220"><br>
       <sub><b>Evolution Constellation</b><br>Interactive evolution graph</sub>

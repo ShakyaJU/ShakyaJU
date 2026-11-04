@@ -61,15 +61,15 @@ PokéPod treats the Pokédex as a **research instrument** rather than a list. Yo
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod-whos-that-pokemon.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/whos that pokemon challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
       <sub><b>Who's That Pokémon?</b><br>Daily challenge with a progressive reveal</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod-evolution-constellation.gif" alt="Evolution Constellation graph being explored" width="220"><br>
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/evolution constellation.gif" alt="Evolution Constellation graph being explored" width="220"><br>
       <sub><b>Evolution Constellation</b><br>Interactive evolution graph</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod-widgets.gif" alt="PokéPod home-screen widgets in four sizes" width="220"><br>
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/app widgets.gif" alt="PokéPod home-screen widgets in four sizes" width="220"><br>
       <sub><b>Android widgets</b><br>Four launcher sizes</sub>
     </td>
   </tr>

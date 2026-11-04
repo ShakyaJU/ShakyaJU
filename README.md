@@ -26,7 +26,7 @@
 <div align="center">
 
 <a href="https://github.com/ShakyaJU/pokepod">
-  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod-logo.png" alt="PokéPod" width="300">
+  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod_splash_text.png" alt="PokéPod" width="300">
 </a>
 
 <h3>Beyond the Pokédex.</h3>
@@ -51,11 +51,11 @@
 </p>
 
 </div>
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod-overview.png" alt="PokéPod — complete application overview" width="100%">
 </p>
-
+-->
 PokéPod treats the Pokédex as a **research instrument** rather than a list. You browse the National Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored **locally on the device**: no account, no backend.
 
 <table align="center">

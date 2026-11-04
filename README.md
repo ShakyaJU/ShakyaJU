@@ -14,7 +14,7 @@
   <a href="#flagship"><img src="https://img.shields.io/badge/Featured%20Project-Pok%C3%A9Pod-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Featured project: PokéPod"></a>
   <a href="#projects"><img src="https://img.shields.io/badge/More-Projects-455A64?style=for-the-badge" alt="More projects"></a>
   <a href="#stack"><img src="https://img.shields.io/badge/Tech-Stack-2DD4A0?style=for-the-badge" alt="Tech stack"></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Get%20in-Touch-E91E63?style=for-the-badge" alt="Get in touch"></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Get in Touch%20Connect-E91E63?style=for-the-badge" alt="Get in touch"></a>
 </p>
 
 ---

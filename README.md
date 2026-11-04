@@ -56,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod-overview.png" alt="PokéPod — complete application overview" width="100%">
 </p>
 -->
-PokéPod treats the Pokédex as a **research instrument** rather than a list. You browse the National Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored **locally on the device**: no account, no backend.
+PokéPod treats the Pokédex as a research instrument rather than a list. You browse the Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored "locally on the device": no account, no backend.
 
 <table align="center">
   <tr>

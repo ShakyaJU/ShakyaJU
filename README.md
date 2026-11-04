@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="#flagship"><img src="https://img.shields.io/badge/Featured%20Project-Pok%C3%A9Pod-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Featured project: PokéPod"></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/More%20Projects-455A64?style=for-the-badge" alt="More Projects"></a>
+  <a href="#flagship"><img src="https://img.shields.io/badge/Featured%20Project-Pok%C3%A9Pod-FBC02D?style=for-the-badge&logo=flutter&logoColor=white" alt="Featured project: PokéPod"></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/More%20Projects-02569B?style=for-the-badge" alt="More Projects"></a>
   <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-2DD4A0?style=for-the-badge" alt="Tech Stack"></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Get%20in%20Touch-E91E63?style=for-the-badge" alt="Get in Touch"></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Get%20in%20Touch-E53935?style=for-the-badge" alt="Get in Touch"></a>
 </p>
 
 ---
@@ -56,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod-overview.png" alt="PokéPod — complete application overview" width="100%">
 </p>
 -->
-PokéPod treats the Pokédex as a research instrument rather than a list. You browse the Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored "locally on the device": no account, no backend.
+PokéPod treats the Pokédex as a research instrument rather than a list. You browse the Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored "locally on the device" no account, no backend.
 
 <table align="center">
   <tr>

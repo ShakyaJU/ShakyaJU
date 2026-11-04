@@ -66,7 +66,7 @@ PokéPod treats the Pokédex as a research instrument rather than a list. You br
     </td>
      <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokedex.gif" alt="Pokédex · searched, filtered and sorted" width="220"><br>
-      <sub><b>Pokédex</b><br>Pokédex · search, filters and sorting</sub>
+      <sub><b>Pokédex</b><br>Pokédex: Search, filters and sorting</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/evolution constellation.gif" alt="Evolution Constellation graph being explored" width="220"><br>
@@ -74,7 +74,7 @@ PokéPod treats the Pokédex as a research instrument rather than a list. You br
     </td>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/app widgets.gif" alt="PokéPod home-screen widgets in four sizes" width="220"><br>
-      <sub><b>Android widgets</b><br>Demo for two widgets</sub>
+      <sub><b>Android widgets</b><br>Demo for two of the widgets</sub>
     </td>
   </tr>
 </table>

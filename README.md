@@ -10,11 +10,20 @@
   <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/my-intro.svg" alt="Intro" width="700"/>
 </p>
 
+---
 <p align="center">
-  <a href="#flagship"><img src="https://img.shields.io/badge/Featured%20Project-Pok%C3%A9Pod-FBC02D?style=for-the-badge&logo=flutter&logoColor=white" alt="Featured project: PokéPod" valign="middle"></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/More%20Projects-02569B?style=for-the-badge" alt="More Projects" valign="middle"></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-43A047?style=for-the-badge" alt="Tech Stack" valign="middle"></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Get%20in%20Touch-E53935?style=for-the-badge" alt="Get in Touch" valign="middle"></a>
+  <a href="#flagship">
+    <img src="https://img.shields.io/badge/⭐_Featured_Project-Pok%C3%A9Pod-FBC02D?style=for-the-badge&labelColor=263238" alt="Featured Project: PokéPod">
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/Explore-Projects-02569B?style=for-the-badge&labelColor=263238" alt="Explore Projects">
+  </a>
+  <a href="#stack">
+    <img src="https://img.shields.io/badge/Technology-Stack-43A047?style=for-the-badge&labelColor=263238" alt="Technology Stack">
+  </a>
+  <a href="#connect">
+    <img src="https://img.shields.io/badge/Get_in_Touch-Connect-E53935?style=for-the-badge&labelColor=263238" alt="Get in Touch: Connect">
+  </a>
 </p>
 
 ---

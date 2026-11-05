@@ -241,13 +241,13 @@ Unlocked from real progress, each with a progress bar.
 
 <p align="center">
   <a href="https://linkedin.com/in/justin-shakya-b56174239" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://kaggle.com/justinshakya" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="mailto:jushakya34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 

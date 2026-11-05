@@ -13,16 +13,16 @@
 ---
 <p align="center">
   <a href="#flagship">
-    <img src="https://img.shields.io/badge/⭐_Featured_Project-Pok%C3%A9Pod-FBC02D?style=for-the-badge&labelColor=263238" alt="Featured Project: PokéPod">
+    <img src="https://img.shields.io/badge/Featured%20Project-Pok%C3%A9Pod-FBC02D?style=for-the-badge&labelColor=263238" alt="Featured Project: PokéPod">
   </a>
   <a href="#projects">
-    <img src="https://img.shields.io/badge/Explore-Projects-02569B?style=for-the-badge&labelColor=263238" alt="Explore Projects">
+    <img src="https://img.shields.io/badge/Explore%20Projects-02569B?style=for-the-badge&labelColor=263238" alt="Explore Projects">
   </a>
   <a href="#stack">
-    <img src="https://img.shields.io/badge/Technology-Stack-43A047?style=for-the-badge&labelColor=263238" alt="Technology Stack">
+    <img src="https://img.shields.io/badge/Technology%20Stack-43A047?style=for-the-badge&labelColor=263238" alt="Technology Stack">
   </a>
   <a href="#connect">
-    <img src="https://img.shields.io/badge/Get_in_Touch-Connect-E53935?style=for-the-badge&labelColor=263238" alt="Get in Touch: Connect">
+    <img src="https://img.shields.io/badge/Get%20in%20Touch-E53935?style=for-the-badge&labelColor=263238" alt="Get in Touch">
   </a>
 </p>
 

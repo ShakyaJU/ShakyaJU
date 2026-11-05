@@ -246,9 +246,8 @@ Unlocked from real progress, each with a progress bar.
   <a href="https://kaggle.com/justinshakya" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="mailto:jushakya34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="mailto:jushakya34@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 <p align="center"><sub>Open to Flutter and mobile development conversations. Thanks for stopping by.</sub></p>

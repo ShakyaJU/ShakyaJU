@@ -141,7 +141,7 @@ Unlocked from real progress, each with a progress bar.
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/NEPSE-market%20data-455A64" alt="NEPSE market data">
+  <img src="https://img.shields.io/badge/NEPSE-demo%20market%20data-455A64" alt="NEPSE market data">
   <img src="https://img.shields.io/badge/Storage-local-5EEAF2" alt="Local storage">
 </p>
 

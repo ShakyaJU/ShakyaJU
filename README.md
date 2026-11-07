@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShakyaJU&label=Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://tally.yuki.sh/hits/ShakyaJU/profile.svg" alt="Profile views" />
 </p>
 
 <p align="center">

@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/License-MIT-E91E63" alt="MIT License">
 </p>
 
-<p><b>1,025 species · 9 generations · 20 achievements · 4 widget sizes · 373 tests</b></p>
+<p><b>1,025 species · 9 generations · 20 achievements · 4 widget sizes · 370 tests</b></p>
 
 <p>
   <a href="https://github.com/ShakyaJU/pokepod"><img src="https://img.shields.io/badge/View%20the%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View the PokéPod repository"></a>

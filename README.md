@@ -45,12 +45,15 @@
   <img src="https://img.shields.io/badge/License-MIT-E91E63" alt="MIT License">
 </p>
 
-<p><b>1,025 species · 9 generations · 20 achievements · 4 widget sizes · 373 tests</b></p>
+<p><b>1,025 species · 9 generations · 20 achievements · 4 widget sizes · 433 tests</b></p>
 
 <p>
   <a href="https://github.com/ShakyaJU/pokepod"><img src="https://img.shields.io/badge/View%20the%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View the PokéPod repository"></a>
+  <a href="https://drive.google.com/file/d/1FX1KTglpklE0uzv8gGRtavpW9SLwUpl8/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20the%20Android%20APK-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Download the PokéPod Android APK"></a>
   <a href="https://drive.google.com/file/d/1mC15HkOd97j_yW7tOFx_2wqBNsXa5Kaf/view?usp=sharing"><img src="https://img.shields.io/badge/%E2%96%B6%20%20Watch%20the%20Full%20Demo-02569B?style=for-the-badge" alt="Watch the full PokéPod demo"></a>
 </p>
+
+<p><sub>Android only · The APK opens on Google Drive. It is installed outside the Play Store, so Android may ask you to allow installs from your browser or file manager.</sub></p>
 
 </div>
 <!--

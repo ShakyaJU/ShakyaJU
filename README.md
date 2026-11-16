@@ -171,8 +171,8 @@ Unlocked from real progress, each with a progress bar.
   <a href="https://github.com/ShakyaJU/pokepod-website"><img src="https://img.shields.io/badge/View%20the%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View the PokéPod Website repository"></a>
 </p>
 
-<a href="https://github.com/ShakyaJU/pokepod-website" width="100%">
-  <img src="assets/pokepod-web.gif" alt="PokéPod Website preview" width="720">
+<a href="https://github.com/ShakyaJU/pokepod-website">
+  <img src="assets/pokepod-web.gif" alt="PokéPod Website preview" width=100%>
 </a>
 
 </div>

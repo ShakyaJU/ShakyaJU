@@ -7,8 +7,9 @@
 </p>
 
 ---
-
+<p align="center">
 ## 👋 About Me
+</p>
 
 <p align="justify">
   Hi, I'm Justin Shakya, a Software Engineer and Computer Science &amp; Software Engineering graduate from Nepal.
@@ -215,7 +216,7 @@ Semantic markup, keyboard-friendly interactions and optimised media.
 
 <p align="center"><sub>PokéPod is an unofficial fan project and is not affiliated with Nintendo, Game Freak, Creatures Inc. or The Pokémon Company. Pokémon names and artwork belong to their respective owners.</sub></p>
 
-<p align="center"><a href="https://github.com/ShakyaJU/pokepod-website"><b>Explore the PokéPod Website on GitHub →</b></a></p>
+<p align="center"><a href="https://github.com/ShakyaJU/pokepod-web"><b>Explore the PokéPod Website on GitHub →</b></a></p>
 
 ---
 

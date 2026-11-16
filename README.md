@@ -7,9 +7,8 @@
 </p>
 
 ---
-<p align="center">
+
 ## 👋 About Me
-</p>
 
 <p align="justify">
   Hi, I'm Justin Shakya, a Software Engineer and Computer Science &amp; Software Engineering graduate from Nepal.

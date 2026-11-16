@@ -72,6 +72,11 @@
 PokéPod treats the Pokédex as a research instrument rather than a list. You browse the Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored locally on the device, with no account and no backend.
 
 <table align="center">
+   <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/pokepod-intro.gif" alt="Splash Screen which shows the discovery shortly after" width="220"><br>
+      <sub><b>Poképod Intro</b><br>Discovery screen after Splash Screen</sub>
+    </td>
   <tr>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/whos that pokemon challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
@@ -145,7 +150,7 @@ Unlocked from real progress, each with a progress bar.
 
 ---
 
-### 🌐 [PokéPod Website](https://github.com/ShakyaJU/pokepod-website)
+### 🌐 [PokéPod Website](https://pokepod.vercel.app)
 
 <div align="center">
 

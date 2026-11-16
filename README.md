@@ -74,7 +74,7 @@ PokéPod treats the Pokédex as a research instrument rather than a list. You br
 <table align="center">
    <tr>
     <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/pokepod-intro.gif" alt="Splash Screen which shows the discovery shortly after" width="220"><br>
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/pokepod_intro.gif" alt="Splash Screen which shows the discovery shortly after" width="220"><br>
       <sub><b>Poképod Intro</b><br>Discovery screen after Splash Screen</sub>
     </td>
   <tr>
@@ -168,7 +168,7 @@ Unlocked from real progress, each with a progress bar.
 </p>
 
 <p>
-  <a href="https://github.com/ShakyaJU/pokepod-website"><img src="https://img.shields.io/badge/View%20the%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View the PokéPod Website repository"></a>
+  <a href="https://github.com/ShakyaJU/pokepod-website"><img src="https://img.shields.io/badge/View%20the%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View the PokéPod Website repository" width="100%"></a>
 </p>
 
 <a href="https://github.com/ShakyaJU/pokepod-website">

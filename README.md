@@ -74,28 +74,19 @@ PokéPod treats the Pokédex as a research instrument rather than a list. You br
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <img src="assets/pokepod-intro.gif" alt="Splash screen which shows the discovery shortly after" width="220"><br>
-      <sub><b>Pokepod intro</b><br>Discovery screen after Splash screen</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="assets/whos%20that%20pokemon%20challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/whos that pokemon challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
       <sub><b>Who's That Pokémon?</b><br>Daily challenge with a progressive reveal</sub>
     </td>
-    <td align="center" valign="top" width="33%">
-      <img src="assets/pokedex.gif" alt="Pokédex · searched, filtered and sorted" width="220"><br>
+     <td align="center" valign="top" width="33%">
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/pokedex.gif" alt="Pokédex · searched, filtered and sorted" width="220"><br>
       <sub><b>Pokédex</b><br>Pokédex: Search, filters and sorting</sub>
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="assets/evolution%20constellation.gif" alt="Evolution Constellation graph being explored" width="220"><br>
+    <td align="center" valign="top" width="33%">
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/evolution constellation.gif" alt="Evolution Constellation graph being explored" width="220"><br>
       <sub><b>Evolution Constellation</b><br>Interactive evolution graph</sub>
     </td>
-    <td align="center" valign="top" width="50%">
-      <img src="assets/app%20widgets.gif" alt="PokéPod home-screen widgets in four sizes" width="220"><br>
+    <td align="center" valign="top" width="33%">
+      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/app widgets.gif" alt="PokéPod home-screen widgets in four sizes" width="220"><br>
       <sub><b>Android widgets</b><br>Demo for two of the widgets</sub>
     </td>
   </tr>
@@ -104,6 +95,7 @@ PokéPod treats the Pokédex as a research instrument rather than a list. You br
 <table>
   <tr>
     <td width="50%" valign="top">
+
 
 **🔭 Research, not just a list**
 Discovered, Studied and Mastered stages that only you advance.

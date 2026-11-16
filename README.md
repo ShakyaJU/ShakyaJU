@@ -1,13 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/hello-world-terminal.gif" alt="Hello World Terminal" width="700"/>
+  <img src="assets/hello-world-terminal.gif" alt="Hello World Terminal" width="700"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShakyaJU&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/my-intro.svg" alt="Intro" width="700"/>
+---
+
+## 👋 About Me
+
+<p align="justify">
+  Hi, I'm Justin Shakya, a Software Engineer and Computer Science &amp; Software Engineering graduate from Nepal.
+</p>
+
+<p align="justify">
+  I enjoy turning ideas into well-crafted software — from designing intuitive interfaces to engineering the architecture and functionality behind them. My primary focus is Flutter and mobile application development, with experience in state management, REST API integration, modular architecture, and building maintainable applications.
+</p>
+
+<p align="justify">
+  I've worked on enterprise-scale application development during my internship and independently built projects spanning mobile applications, data-driven tools, and interactive web experiences. I value clean code, thoughtful design, and engineering decisions that make software reliable, useful, and easy to evolve.
 </p>
 
 ---
@@ -23,12 +35,12 @@
 
 <a id="flagship"></a>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/ShakyaJU/pokepod">
-  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod_splash_text.png" alt="PokéPod" width="300">
+  <img src="assets/pokepod_splash_text.png" alt="PokéPod" width="300">
 </a>
 
 <h3>Beyond the Pokédex.</h3>
@@ -56,29 +68,34 @@
 <p><sub>Android only · The APK opens on Google Drive. It is installed outside the Play Store, so Android may ask you to allow installs from your browser or file manager.</sub></p>
 
 </div>
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokepod-overview.png" alt="PokéPod — complete application overview" width="100%">
-</p>
--->
-PokéPod treats the Pokédex as a research instrument rather than a list. You browse the Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored "locally on the device" no account, no backend.
+
+PokéPod treats the Pokédex as a research instrument rather than a list. You browse the Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored locally on the device, with no account and no backend.
 
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/whos that pokemon challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
+      <img src="assets/pokepod-intro.gif" alt="Splash screen which shows the discovery shortly after" width="220"><br>
+      <sub><b>Pokepod intro</b><br>Discovery screen after Splash screen</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="assets/whos%20that%20pokemon%20challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
       <sub><b>Who's That Pokémon?</b><br>Daily challenge with a progressive reveal</sub>
     </td>
-     <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/pokedex.gif" alt="Pokédex · searched, filtered and sorted" width="220"><br>
+    <td align="center" valign="top" width="33%">
+      <img src="assets/pokedex.gif" alt="Pokédex · searched, filtered and sorted" width="220"><br>
       <sub><b>Pokédex</b><br>Pokédex: Search, filters and sorting</sub>
     </td>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/evolution constellation.gif" alt="Evolution Constellation graph being explored" width="220"><br>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="assets/evolution%20constellation.gif" alt="Evolution Constellation graph being explored" width="220"><br>
       <sub><b>Evolution Constellation</b><br>Interactive evolution graph</sub>
     </td>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/app widgets.gif" alt="PokéPod home-screen widgets in four sizes" width="220"><br>
+    <td align="center" valign="top" width="50%">
+      <img src="assets/app%20widgets.gif" alt="PokéPod home-screen widgets in four sizes" width="220"><br>
       <sub><b>Android widgets</b><br>Demo for two of the widgets</sub>
     </td>
   </tr>
@@ -117,7 +134,7 @@ Unlocked from real progress, each with a progress bar.
 
 - **State and dependency injection with Riverpod.** One mechanism for state, repositories and the HTTP client; tests override any of them.
 - **A cache-first repository layer.** Screens never see HTTP; identical in-flight requests are de-duplicated, and previously opened content works offline.
-- **Domain logic in pure Dart.** The type chart, team analysis, filtering, sorting, evolution layout, achievements and the daily challenge are tested without any UI (327 automated tests).
+- **Domain logic in pure Dart.** The type chart, team analysis, filtering, sorting, evolution layout, achievements and the daily challenge are tested without any UI (433 automated tests).
 - **Careful game design.** A date-seeded shuffle of the full National Dex, a saved answer per day, explicit win and loss states, and fair streak rules.
 - **Local-first privacy.** No accounts, analytics or ads; backup and restore with validation and confirmation.
 - **Honest documentation.** The README lists known limitations, such as Android-only widgets and the platforms that have not been built.
@@ -133,6 +150,75 @@ Unlocked from real progress, each with a progress bar.
 <p align="center"><sub>PokéPod is an unofficial fan project and is not affiliated with Nintendo, The Pokémon Company or Game Freak. Pokémon names and artwork belong to their respective owners.</sub></p>
 
 <p align="center"><a href="https://github.com/ShakyaJU/pokepod"><b>Explore PokéPod on GitHub →</b></a></p>
+
+---
+
+### 🌐 [PokéPod Website](https://github.com/ShakyaJU/pokepod-website)
+
+<div align="center">
+
+<h4>Your Pokémon journey. Reimagined.</h4>
+
+<p>The promotional website for PokéPod: a standalone Next.js project that presents the app through real application recordings, an interactive feature showcase and a responsive, accessible layout.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white" alt="Next.js 15">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React 19">
+  <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript&logoColor=white" alt="TypeScript, strict mode">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS 3">
+  <img src="https://img.shields.io/badge/Framer_Motion-animations-0055FF?logo=framer&logoColor=white" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/Vercel-Ready-000000?logo=vercel&logoColor=white" alt="Vercel ready">
+</p>
+
+<p>
+  <a href="https://github.com/ShakyaJU/pokepod-website"><img src="https://img.shields.io/badge/View%20the%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View the PokéPod Website repository"></a>
+</p>
+
+<a href="https://github.com/ShakyaJU/pokepod-website">
+  <img src="assets/pokepod-web.gif" alt="PokéPod Website preview" width="720">
+</a>
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**🎬 Real app previews**
+Actual application recordings shown in responsive device mockups, plus an expanded screen gallery.
+
+**🧭 Interactive feature showcase**
+Discovery, Pokédex, research, collections and the daily challenge, explained through the app itself.
+
+**📄 Dedicated information pages**
+Features, About, FAQ and Privacy (the privacy page is currently a draft).
+
+</td>
+    <td width="50%" valign="top">
+
+**📱 Responsive by design**
+Layouts for desktop, tablet and mobile, with scroll-based animation that respects reduced-motion settings.
+
+**🔎 SEO and social sharing**
+Page metadata, Open Graph previews, sitemap and structured data.
+
+**♿ Accessibility and performance**
+Semantic markup, keyboard-friendly interactions and optimised media.
+
+</td>
+  </tr>
+</table>
+
+### What it demonstrates
+
+- **Typed, maintainable content.** TypeScript in strict mode, with feature descriptions, FAQ and app recordings kept in `data/` files, separate from the UI components.
+- **A clear structure.** App Router pages and layouts, with reusable `layout`, `sections` and `ui` component groups.
+- **Quality tooling.** Scripts for type checking, ESLint and Prettier format checks.
+- **Deployment-ready setup.** Built for Vercel, with the public site URL configurable through an environment variable.
+
+<p align="center"><sub>PokéPod is an unofficial fan project and is not affiliated with Nintendo, Game Freak, Creatures Inc. or The Pokémon Company. Pokémon names and artwork belong to their respective owners.</sub></p>
+
+<p align="center"><a href="https://github.com/ShakyaJU/pokepod-website"><b>Explore the PokéPod Website on GitHub →</b></a></p>
 
 ---
 
@@ -167,7 +253,7 @@ Unlocked from real progress, each with a progress bar.
     </td>
     <td width="40%" align="center" valign="top">
       <a href="https://github.com/ShakyaJU/bull-and-bear">
-        <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/bull%26bear.gif" alt="Bull & Bear App Preview" width="280">
+        <img src="assets/bull%26bear.gif" alt="Bull & Bear App Preview" width="280">
       </a>
     </td>
   </tr>
@@ -205,7 +291,7 @@ Unlocked from real progress, each with a progress bar.
     </td>
     <td width="40%" align="center" valign="top">
       <a href="https://github.com/ShakyaJU/Food_Allergen_Detection">
-        <img src="https://github.com/ShakyaJU/ShakyaJU/blob/main/f_a_d.gif" alt="Food Allergen Detection App Preview" width="280">
+        <img src="assets/f_a_d.gif" alt="Food Allergen Detection App Preview" width="280">
       </a>
     </td>
   </tr>
@@ -249,8 +335,9 @@ Unlocked from real progress, each with a progress bar.
   <a href="https://kaggle.com/justinshakya" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-<a href="mailto:jushakya34@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+  <a href="mailto:jushakya34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <p align="center"><sub>Open to Flutter and mobile development conversations. Thanks for stopping by.</sub></p>

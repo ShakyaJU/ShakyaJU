@@ -72,11 +72,11 @@
 PokéPod treats the Pokédex as a research instrument rather than a list. You browse the Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored locally on the device, with no account and no backend.
 
 <table align="center">
-   <tr>
+   <!--<tr>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/pokepod_intro.gif" alt="Splash Screen which shows the discovery shortly after" width="220"><br>
       <sub><b>Poképod Intro</b><br>Discovery screen after Splash Screen</sub>
-    </td>
+    </td>-->
   <tr>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/whos that pokemon challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
@@ -168,10 +168,10 @@ Unlocked from real progress, each with a progress bar.
 </p>
 
 <p>
-  <a href="https://github.com/ShakyaJU/pokepod-website"><img src="https://img.shields.io/badge/View%20the%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View the PokéPod Website repository" width="100%"></a>
+  <a href="https://github.com/ShakyaJU/pokepod-website"><img src="https://img.shields.io/badge/View%20the%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View the PokéPod Website repository"></a>
 </p>
 
-<a href="https://github.com/ShakyaJU/pokepod-website">
+<a href="https://github.com/ShakyaJU/pokepod-website" width="100%">
   <img src="assets/pokepod-web.gif" alt="PokéPod Website preview" width="720">
 </a>
 

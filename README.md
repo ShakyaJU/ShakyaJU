@@ -23,12 +23,14 @@
 </p>
 
 ---
+
 ## Contents
+
 <p align="center">
-  <a href="#flagship"><img src="https://img.shields.io/badge/Featured%20Project-Pok%C3%A9Pod-FBC02D?style=for-the-badge&logo=flutter&logoColor=white" alt="Featured project: PokéPod" valign="middle"></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/More%20Projects-02569B?style=for-the-badge" alt="More Projects" valign="middle"></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-43A047?style=for-the-badge" alt="Tech Stack" valign="middle"></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Get%20in%20Touch-E53935?style=for-the-badge" alt="Get in Touch" valign="middle"></a>
+  <a href="#flagship"><img src="https://img.shields.io/badge/Featured%20Projects-Pok%C3%A9Pod-FBC02D?style=for-the-badge&logo=flutter&logoColor=white" alt="Featured projects: PokéPod"></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/More%20Projects-02569B?style=for-the-badge" alt="More Projects"></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-43A047?style=for-the-badge" alt="Tech Stack"></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Get%20in%20Touch-E53935?style=for-the-badge" alt="Get in Touch"></a>
 </p>
 
 ---
@@ -72,27 +74,22 @@
 PokéPod treats the Pokédex as a research instrument rather than a list. You browse the Pokédex, record what you have discovered, studied and mastered, compare specimens, build teams and play a daily "Who's That Pokémon?" challenge. Everything is stored locally on the device, with no account and no backend.
 
 <table align="center">
-   <!--<tr>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/pokepod_intro.gif" alt="Splash Screen which shows the discovery shortly after" width="220"><br>
-      <sub><b>Poképod Intro</b><br>Discovery screen after Splash Screen</sub>
-    </td>-->
   <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/whos that pokemon challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="220"><br>
+    <td align="center" valign="top" width="25%">
+      <img src="assets/whos%20that%20pokemon%20challenge.gif" alt="Who's That Pokémon? daily challenge being played" width="190"><br>
       <sub><b>Who's That Pokémon?</b><br>Daily challenge with a progressive reveal</sub>
     </td>
-     <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/pokedex.gif" alt="Pokédex · searched, filtered and sorted" width="220"><br>
-      <sub><b>Pokédex</b><br>Pokédex: Search, filters and sorting</sub>
+    <td align="center" valign="top" width="25%">
+      <img src="assets/pokedex.gif" alt="Pokédex searched, filtered and sorted" width="190"><br>
+      <sub><b>Pokédex</b><br>Search, filters and sorting</sub>
     </td>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/evolution constellation.gif" alt="Evolution Constellation graph being explored" width="220"><br>
+    <td align="center" valign="top" width="25%">
+      <img src="assets/evolution%20constellation.gif" alt="Evolution Constellation graph being explored" width="190"><br>
       <sub><b>Evolution Constellation</b><br>Interactive evolution graph</sub>
     </td>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/ShakyaJU/ShakyaJU/main/assets/app widgets.gif" alt="PokéPod home-screen widgets in four sizes" width="220"><br>
-      <sub><b>Android widgets</b><br>Demo for two of the widgets</sub>
+    <td align="center" valign="top" width="25%">
+      <img src="assets/app%20widgets.gif" alt="PokéPod home-screen widgets" width="190"><br>
+      <sub><b>Android widgets</b><br>Demo of two of the widgets</sub>
     </td>
   </tr>
 </table>
@@ -100,7 +97,6 @@ PokéPod treats the Pokédex as a research instrument rather than a list. You br
 <table>
   <tr>
     <td width="50%" valign="top">
-
 
 **🔭 Research, not just a list**
 Discovered, Studied and Mastered stages that only you advance.
@@ -131,7 +127,7 @@ Unlocked from real progress, each with a progress bar.
 
 - **State and dependency injection with Riverpod.** One mechanism for state, repositories and the HTTP client; tests override any of them.
 - **A cache-first repository layer.** Screens never see HTTP; identical in-flight requests are de-duplicated, and previously opened content works offline.
-- **Domain logic in pure Dart.** The type chart, team analysis, filtering, sorting, evolution layout, achievements and the daily challenge are tested without any UI (433 automated tests).
+- **Domain logic in pure Dart.** The type chart, team analysis, filtering, sorting, evolution layout, achievements and the daily challenge are tested without any UI.
 - **Careful game design.** A date-seeded shuffle of the full National Dex, a saved answer per day, explicit win and loss states, and fair streak rules.
 - **Local-first privacy.** No accounts, analytics or ads; backup and restore with validation and confirmation.
 - **Honest documentation.** The README lists known limitations, such as Android-only widgets and the platforms that have not been built.
@@ -144,9 +140,20 @@ Unlocked from real progress, each with a progress bar.
   <img src="https://img.shields.io/badge/audioplayers-sound-8E24AA" alt="audioplayers">
 </p>
 
-<p align="center"><sub>PokéPod is an unofficial fan project and is not affiliated with Nintendo, The Pokémon Company or Game Freak. Pokémon names and artwork belong to their respective owners.</sub></p>
+### 🏅 Open-Source Recognition
 
-<p align="center"><a href="https://github.com/ShakyaJU/pokepod"><b>Explore PokéPod on GitHub →</b></a></p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <p><b>XERJ · XERJ Corpus Hub</b><br><sub>Selected for Inclusion · PokéPod</sub></p>
+      <p>Selected for inclusion in the XERJ Corpus Hub, an open-source initiative by XERJ, recognising implementation improvements contributed to PokéPod, including first-launch onboarding, Pokémon Defense Profiles, related application improvements, and accompanying tests.</p>
+      <p>
+        <a href="https://github.com/ShakyaJU/pokepod"><img src="https://img.shields.io/badge/PokéPod%20GitHub%20%E2%86%97-24292F?style=for-the-badge&logo=github&logoColor=white" alt="PokéPod on GitHub"></a>
+        <a href="https://hub.xerj.org/contributors/ShakyaJU"><img src="https://img.shields.io/badge/XERJ%20Contributor%20Page%20%E2%86%97-6D28D9?style=for-the-badge" alt="XERJ contributor page"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -168,11 +175,12 @@ Unlocked from real progress, each with a progress bar.
 </p>
 
 <p>
+  <a href="https://pokepod.vercel.app"><img src="https://img.shields.io/badge/Visit%20the%20Live%20Website-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit the live PokéPod website"></a>
   <a href="https://github.com/ShakyaJU/pokepod-website"><img src="https://img.shields.io/badge/View%20the%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View the PokéPod Website repository"></a>
 </p>
 
-<a href="https://github.com/ShakyaJU/pokepod-website">
-  <img src="assets/pokepod-web.gif" alt="PokéPod Website preview" width=100%>
+<a href="https://pokepod.vercel.app">
+  <img src="assets/pokepod-web.gif" alt="PokéPod Website preview" width="100%">
 </a>
 
 </div>
@@ -213,9 +221,7 @@ Semantic markup, keyboard-friendly interactions and optimised media.
 - **Quality tooling.** Scripts for type checking, ESLint and Prettier format checks.
 - **Deployment-ready setup.** Built for Vercel, with the public site URL configurable through an environment variable.
 
-<p align="center"><sub>PokéPod is an unofficial fan project and is not affiliated with Nintendo, Game Freak, Creatures Inc. or The Pokémon Company. Pokémon names and artwork belong to their respective owners.</sub></p>
-
-<p align="center"><a href="https://github.com/ShakyaJU/pokepod-web"><b>Explore the PokéPod Website on GitHub →</b></a></p>
+<p align="center"><sub>PokéPod and its website are unofficial fan projects and are not affiliated with Nintendo, Game Freak, Creatures Inc. or The Pokémon Company. Pokémon names and artwork belong to their respective owners.</sub></p>
 
 ---
 

@@ -8,18 +8,18 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 <p align="justify">
-  Hi, I'm Justin Shakya, a Software Engineer and Computer Science &amp; Software Engineering graduate from Nepal.
+  👋Hi there, I'm Justin Shakya, a Software Engineer and Computer Science &amp; Software Engineering graduate from Nepal.
 </p>
 
 <p align="justify">
-  I enjoy turning ideas into well-crafted software — from designing intuitive interfaces to engineering the architecture and functionality behind them. My primary focus is Flutter and mobile application development, with experience in state management, REST API integration, modular architecture, and building maintainable applications.
+  I enjoy turning ideas into well-crafted software — from designing intuitive interfaces to engineering the architecture and functionality behind them. My primary focus is Flutter and mobile application development.
 </p>
 
 <p align="justify">
-  I've worked on enterprise-scale application development during my internship and independently built projects spanning mobile applications, data-driven tools, and interactive web experiences. I value clean code, thoughtful design, and engineering decisions that make software reliable, useful, and easy to evolve.
+  I've worked on enterprise-scale application development and independently built projects spanning mobile applications and interactive web experiences with a thoughtful design and engineering decisions that make software reliable, useful, and easy to evolve.
 </p>
 
 ---
